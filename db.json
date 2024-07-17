@@ -17,6 +17,24 @@
 			"total": 25
 		}
 	],
+	"unresolved-ticket": [
+		{
+			"type": "Waiting on Feature Request",
+			"total": 4238
+		},
+		{
+			"type": "Awaiting Customer Response",
+			"total": 1005
+		},
+		{
+			"type": "Awaiting Developer Fix",
+			"total": 914
+		},
+		{
+			"type": "Pending",
+			"total": 281
+		}
+	],
 	"overview-statistic": [
 		{
 			"title": "Resolved",
