@@ -1,0 +1,119 @@
+{
+	"overview": [
+		{
+			"type": "Unresolved",
+			"total": 80
+		},
+		{
+			"type": "Overdue",
+			"total": 94
+		},
+		{
+			"type": "Open",
+			"total": 430
+		},
+		{
+			"type": "On Hold",
+			"total": 25
+		}
+	],
+	"overview-statistic": [
+		{
+			"title": "Resolved",
+			"type": 1,
+			"total": 2345
+		},
+		{
+			"title": "Received",
+			"type": 2,
+			"total": 405
+		},
+		{
+			"title": "Average first response time",
+			"type": 3,
+			"total": 405
+		},
+		{
+			"title": "Average response time",
+			"type": 4,
+			"total": 463
+		},
+		{
+			"title": "Resolution within SLA",
+			"type": 5,
+			"total": 405
+		}
+	],
+	"tickets": [
+		{
+			"id": "4ccbbb76-3d6d-4e20-90bc-1647180692b8",
+			"description": "ullamco aliqua dolore mollit laborum quis eiusmod voluptate",
+			"status": "OPEN",
+			"priority": "HIGH",
+			"creator": "Rosario Stein",
+			"due_date": "2016-02-01T09:40:16 -07:00",
+			"created_at": "2019-12-19T04:59:19 -07:00",
+			"updated_at": "2015-10-04T06:21:07 -07:00"
+		},
+		{
+			"id": "2e30a8d0-cc79-4f25-bda0-e0121f163ce8",
+			"description": "esse non laborum mollit reprehenderit incididunt excepteur quis",
+			"status": "OPEN",
+			"priority": "NORMAL",
+			"creator": "Moran Thompson",
+			"due_date": "2022-02-24T02:16:40 -07:00",
+			"created_at": "2021-12-13T02:24:13 -07:00",
+			"updated_at": "2019-07-16T12:37:40 -07:00"
+		},
+		{
+			"id": "bc520cb4-b0f7-4bf2-82d4-90c45761de73",
+			"description": "ad velit aute enim duis cillum cillum anim",
+			"status": "ON_HOLD",
+			"priority": "NORMAL",
+			"creator": "Kramer Jacobs",
+			"due_date": "2016-08-03T04:28:02 -07:00",
+			"created_at": "2020-06-13T06:35:59 -07:00",
+			"updated_at": "2020-06-20T01:39:54 -07:00"
+		},
+		{
+			"id": "ac971648-8df3-4960-927a-e78cb1c49e8a",
+			"description": "culpa veniam reprehenderit esse pariatur sit Lorem in",
+			"status": "UNRESOLVED",
+			"priority": "LOW",
+			"creator": "Holmes Snider",
+			"due_date": "2017-06-14T12:57:01 -07:00",
+			"created_at": "2015-11-17T01:07:40 -07:00",
+			"updated_at": "2014-12-13T10:40:10 -07:00"
+		},
+		{
+			"id": "02d82e9d-4d59-4e76-b398-c13afd80926c",
+			"description": "est est nisi do laborum ex voluptate magna",
+			"status": "ON_HOLD",
+			"priority": "HIGH",
+			"creator": "Roman Cantrell",
+			"due_date": "2019-04-16T09:02:40 -07:00",
+			"created_at": "2016-03-08T01:42:11 -07:00",
+			"updated_at": "2015-09-09T10:18:33 -07:00"
+		},
+		{
+			"id": "bd5dfc2f-89d0-464f-8c01-276b610094d7",
+			"description": "dolor mollit labore tempor quis deserunt nulla sit",
+			"status": "OPEN",
+			"priority": "LOW",
+			"creator": "Delores Morales",
+			"due_date": "2014-03-24T06:50:43 -07:00",
+			"created_at": "2015-10-01T06:26:30 -07:00",
+			"updated_at": "2014-12-04T10:56:16 -07:00"
+		},
+		{
+			"id": "87de8324-700e-4011-8afe-39d2b40d1215",
+			"description": "laboris pariatur velit consequat veniam pariatur mollit qui",
+			"status": "UNRESOLVED",
+			"priority": "LOW",
+			"creator": "Helga Olson",
+			"due_date": "2022-01-18T12:17:38 -07:00",
+			"created_at": "2020-10-01T11:14:31 -07:00",
+			"updated_at": "2023-04-24T12:09:25 -07:00"
+		}
+	]
+}
